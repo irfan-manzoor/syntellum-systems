@@ -1,0 +1,6 @@
+{
+  "name": "Syntellum Systems",
+  "description": "Enterprise AI, intelligent workflow automation, software engineering, and enterprise systems integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

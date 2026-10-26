@@ -1,0 +1,9 @@
+# Syntellum Systems Production robots.txt
+# Canonical Host: https://syntellum.si/
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*.json$
+
+Sitemap: https://syntellum.si/sitemap.xml
