@@ -144,7 +144,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPage, setCurrentPage }) =
           </nav>
 
           {/* Zone 3: Primary CTA */}
-          <div className="hidden sm:flex items-center gap-4 shrink-0">
+          <div className="hidden sm:flex items-center gap-3 shrink-0">
             <a
               href="/contact"
               onClick={(e) => {

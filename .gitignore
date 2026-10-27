@@ -5,6 +5,8 @@ coverage/
 .DS_Store
 *.log
 *.zip
-public/*.zip
+!syntellum-v2.zip
+!public/syntellum-v2.zip
+.aistudio/
 .env*
 !.env.example
