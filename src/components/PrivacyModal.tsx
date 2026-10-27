@@ -79,7 +79,25 @@ export const PrivacyModal: React.FC<PrivacyModalProps> = ({ isOpen, onClose }) =
               5. Geographic Scope & Governance
             </h3>
             <p>
-              Syntellum Systems operates from Pakistan, engineering enterprise systems for both domestic enterprises and international clients across cross-border commercial environments.
+              Syntellum Systems operates from Pakistan, engineering enterprise systems for both domestic enterprises and international clients across the EU, UK, US, and Middle East. We apply GDPR principles as our privacy baseline for all client communications.
+            </p>
+          </div>
+
+          <div>
+            <h3 className="text-sm font-semibold text-[#F4F7FA] uppercase tracking-wider mb-1">
+              6. Form Processing & Relay
+            </h3>
+            <p>
+              Inquiry submissions are securely transmitted via encrypted HTTPS through FormSubmit (formsubmit.co) acting as a technical transmission relay directly to our engineering desk at <span className="font-mono text-[#65D9E8]">info@syntellum.si</span>. Submissions are never monetized, rented, or retained for external marketing purposes.
+            </p>
+          </div>
+
+          <div>
+            <h3 className="text-sm font-semibold text-[#F4F7FA] uppercase tracking-wider mb-1">
+              7. Zero Model Training & Data Rights
+            </h3>
+            <p>
+              Under no circumstances is client information, proprietary technical documentation, or project data used to train or fine-tune public foundation AI models. You retain the right to request deletion, export, or audit of any communication records by emailing our Legal & Engineering Desk at <span className="font-mono text-[#65D9E8]">info@syntellum.si</span>.
             </p>
           </div>
         </div>

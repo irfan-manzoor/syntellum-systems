@@ -168,6 +168,9 @@ For project inquiries, technical discovery, or partnership opportunities:
 * **Email:** [info@syntellum.si](mailto:info@syntellum.si)
 * **Website:** [syntellum.si](https://syntellum.si)
 * **Discovery Desk:** [syntellum.si/contact](https://syntellum.si/contact)
+* **LinkedIn:** [linkedin.com/company/syntellum-systems](https://linkedin.com/company/syntellum-systems)
+* **X (Twitter):** [x.com/syntellum](https://x.com/syntellum)
+* **Instagram:** [instagram.com/syntellumsystems](https://instagram.com/syntellumsystems)
 * **Headquarters:** Pakistan (serving Pakistan & International Markets)
 
 ---
