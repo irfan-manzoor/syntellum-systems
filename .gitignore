@@ -6,7 +6,6 @@ coverage/
 *.log
 *.zip
 !syntellum-v2.zip
-!public/syntellum-v2.zip
 .aistudio/
 .env*
 !.env.example
